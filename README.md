@@ -1,4 +1,4 @@
-## Projeto de back end para teste da Qialicorp
+## Projeto de back end para teste da Qualicorp
 
 Projeto criado para teste de fullstack da qualicorp
 
